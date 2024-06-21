@@ -7,5 +7,5 @@
 - 💻 I’m currently learning HTML, CSS, JavaScript, Node, SQL, React
 - 👥 I’m looking to collaborate on any new projects that will get my brain excited!
 - 📫 How to reach me: cnm724@gmail.com
-- 🔗 [LinkedIn Profile](www.linkedin.com/in/courtney-manaligod-2448b4114)
+- 🔗 Here is my [LinkedIn Profile](www.linkedin.com/in/courtney-manaligod-2448b4114)
 - ⚡ Fun fact: Was a professional chef for nearly 10 years 👩🏻‍🍳

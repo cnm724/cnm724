@@ -1,4 +1,6 @@
-##👋 Welcome to my Github profile 👋
+<div align = "center">
+## 👋 Welcome to my Github profile 👋
+</div>
 
 - 📜 I’m currently working on a Fullstack Developer certification with edX at the Univeristy of Denver
 - 💻 I’m currently learning HTML, CSS, JavaScript, Node, SQL, React
